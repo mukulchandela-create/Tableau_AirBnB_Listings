@@ -12,7 +12,7 @@ The objective of this project is to analyze Airbnb listing prices and identify f
 
 ## 📊 Dashboard Preview
 
-![AirBnB Listng Projects](AirBnB Listng Projects.png)
+![AirBnb_Listing_Project](AirBnb_Listing_Project.png)
 
 ---
 

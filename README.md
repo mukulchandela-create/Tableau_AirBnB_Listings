@@ -12,7 +12,7 @@ The objective of this project is to analyze Airbnb listing prices and identify f
 
 ## 📊 Dashboard Preview
 
-![AirBnB Listing Projects](AirBnB Listing Projects.png)
+![AirBnB Listng Projects](AirBnB Listng Projects.png)
 
 ---
 
@@ -60,7 +60,6 @@ The objective of this project is to analyze Airbnb listing prices and identify f
 - Tableau Public
 - Microsoft Excel
 - Data Visualization
-- Geographic Mapping
 
 ---
 
@@ -85,28 +84,10 @@ https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
 ---
 
-## 📁 Repository Structure
-
-```
-Airbnb-Listings-Tableau-Dashboard/
-│
-├── Dashboard.png
-├── Airbnb Dashboard.twbx
-├── Airbnb Listings.xlsx
-├── README.md
-└── Images/
-```
-
----
-
 ## 🚀 How to View the Dashboard
 
 ### Tableau Public
-Paste your Tableau Public link here.
-
-Example:
-
-https://public.tableau.com/views/YourDashboardName
+https://public.tableau.com/views/AirBnBListingsDashboard_17851718390090/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -126,9 +107,6 @@ https://public.tableau.com/views/YourDashboardName
 ## 👤 Author
 
 **Mukul Chandela**
-
-- GitHub: https://github.com/YourUsername
-- LinkedIn: https://linkedin.com/in/YourProfile
 
 ---
 
